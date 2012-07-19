@@ -4,7 +4,7 @@
             {
                 "id": "10",
                 "date": "2012-05-05T13:49+01",
-                "message": "In quis eros massa, vitae...",
+                "message": "Quisque tincidunt, velit ultricies congue mattis, tellus ligula facilisis metus, ut lobortis diam metus sit amet nisi. Morbi vulputate ornare sodales. Vestibulum semper nisi eu mauris porttitor placerat. Sed vel.",
                 "sender": {
                     "id": "2424",
                     "name": "Hanna G.",
@@ -14,7 +14,7 @@
             {
                 "id": "12",
                 "date": "2012-05-05T13:49+01",
-                "message": "Maecenas vestibulum sem nec...",
+                "message": "Phasellus fermentum vehicula nunc ut adipiscing. Nulla posuere molestie gravida. Curabitur tincidunt sollicitudin nisl convallis molestie. In tincidunt tortor leo, sed vehicula mi. Sed turpis diam, ultrices a blandit in.",
                 "sender": {
                     "id": "8742",
                     "name": "Maja B.",
@@ -23,7 +23,7 @@
             }, {
                 "id": "10",
                 "date": "2012-05-05T13:49+01",
-                "message": "In quis eros massa, vitae...",
+                "message": "Quisque dignissim fermentum elit, ac viverra quam cursus ac. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae diam vel quam vehicula ultrices. Nam volutpat nisl sit amet quam.",
                 "sender": {
                     "id": "2424",
                     "name": "Hanna G.",
@@ -33,7 +33,7 @@
             {
                 "id": "12",
                 "date": "2012-05-05T13:49+01",
-                "message": "Maecenas vestibulum sem nec...",
+                "message": "Nunc non blandit nisi. Integer id felis lorem. Cras ut mi odio. Quisque mattis, mi nec lacinia dictum, odio est eleifend sem, et blandit arcu neque id diam. Ut aliquet.",
                 "sender": {
                     "id": "8742",
                     "name": "Maja B.",
@@ -42,7 +42,7 @@
             }, {
                 "id": "10",
                 "date": "2012-05-05T13:49+01",
-                "message": "In quis eros massa, vitae...",
+                "message": "Well YEAH! Lets do that. I'll be there!",
                 "sender": {
                     "id": "2424",
                     "name": "Hanna G.",
@@ -52,7 +52,7 @@
             {
                 "id": "12",
                 "date": "2012-05-05T13:49+01",
-                "message": "Maecenas vestibulum sem nec...",
+                "message": "Suspendisse feugiat congue scelerisque. Vivamus dolor tellus, eleifend vel gravida sit amet, auctor a augue. Nulla laoreet felis quis ipsum aliquam varius. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque cursus enim non dolor placerat vehicula. Vestibulum tempus imperdiet neque at ullamcorper. Morbi mi est, sagittis id mattis vel, viverra id massa. Aenean lobortis diam mollis est posuere adipiscing nec in urna. Nullam suscipit elementum felis, eu feugiat urna volutpat quis. Nam vestibulum tristique magna, in pharetra tellus tempor quis. Aliquam odio augue, pellentesque sed consequat a, interdum quis enim. Vivamus consectetur tempus magna.",
                 "sender": {
                     "id": "8742",
                     "name": "Maja B.",
@@ -61,7 +61,7 @@
             }, {
                 "id": "10",
                 "date": "2012-05-05T13:49+01",
-                "message": "In quis eros massa, vitae...",
+                "message": "Jep.",
                 "sender": {
                     "id": "2424",
                     "name": "Hanna G.",
@@ -71,7 +71,7 @@
             {
                 "id": "12",
                 "date": "2012-05-05T13:49+01",
-                "message": "Maecenas vestibulum sem nec...",
+                "message": "Donec et feugiat est. Proin tempor dolor eget est venenatis sit amet varius neque tempus. Donec lobortis ante vitae sem adipiscing ultricies. Suspendisse potenti. Donec id quam magna. Maecenas viverra, mauris eu imperdiet rutrum, enim orci sollicitudin lacus, quis vehicula lectus arcu nec dui. Proin varius convallis sem et gravida.",
                 "sender": {
                     "id": "8742",
                     "name": "Maja B.",
