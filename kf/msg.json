@@ -1,0 +1,83 @@
+{
+    "response": {
+        "messages": [
+            {
+                "id": "10",
+                "date": "2012-05-05T13:49+01",
+                "message": "In quis eros massa, vitae...",
+                "sender": {
+                    "id": "2424",
+                    "name": "Hanna G.",
+                    "imageUrl": "http://img-2013.s3.amazonaws.com/1325619434small.jpg"
+                }
+            },
+            {
+                "id": "12",
+                "date": "2012-05-05T13:49+01",
+                "message": "Maecenas vestibulum sem nec...",
+                "sender": {
+                    "id": "8742",
+                    "name": "Maja B.",
+                    "imageUrl": "http://img-2013.s3.amazonaws.com/1336640425small.jpg"
+                }
+            }, {
+                "id": "10",
+                "date": "2012-05-05T13:49+01",
+                "message": "In quis eros massa, vitae...",
+                "sender": {
+                    "id": "2424",
+                    "name": "Hanna G.",
+                    "imageUrl": "http://img-2013.s3.amazonaws.com/1325619434small.jpg"
+                }
+            },
+            {
+                "id": "12",
+                "date": "2012-05-05T13:49+01",
+                "message": "Maecenas vestibulum sem nec...",
+                "sender": {
+                    "id": "8742",
+                    "name": "Maja B.",
+                    "imageUrl": "http://img-2013.s3.amazonaws.com/1336640425small.jpg"
+                }
+            }, {
+                "id": "10",
+                "date": "2012-05-05T13:49+01",
+                "message": "In quis eros massa, vitae...",
+                "sender": {
+                    "id": "2424",
+                    "name": "Hanna G.",
+                    "imageUrl": "http://img-2013.s3.amazonaws.com/1325619434small.jpg"
+                }
+            },
+            {
+                "id": "12",
+                "date": "2012-05-05T13:49+01",
+                "message": "Maecenas vestibulum sem nec...",
+                "sender": {
+                    "id": "8742",
+                    "name": "Maja B.",
+                    "imageUrl": "http://img-2013.s3.amazonaws.com/1336640425small.jpg"
+                }
+            }, {
+                "id": "10",
+                "date": "2012-05-05T13:49+01",
+                "message": "In quis eros massa, vitae...",
+                "sender": {
+                    "id": "2424",
+                    "name": "Hanna G.",
+                    "imageUrl": "http://img-2013.s3.amazonaws.com/1325619434small.jpg"
+                }
+            },
+            {
+                "id": "12",
+                "date": "2012-05-05T13:49+01",
+                "message": "Maecenas vestibulum sem nec...",
+                "sender": {
+                    "id": "8742",
+                    "name": "Maja B.",
+                    "imageUrl": "http://img-2013.s3.amazonaws.com/1336640425small.jpg"
+                }
+            }
+        ]
+    }
+}
