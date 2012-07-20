@@ -1,1 +1,42 @@
-{    "response": {        "babysitters": [            {                "id": "3532",                "name": "Julia Anders",                "imageUrl": "http://images.kinderfee.de/HNka2.jpg",                "rating": 1,                "price": 7.9,                "currency": "EUR",                "initiallySelected": true            },            {                "id": "1522",                "name": "Sandra Weichert",                "imageUrl": "http://images.kinderfee.de/Is7nk.jpg",                "rating": 0.8,                "price": 8.49,                "currency": "EUR",                "initiallySelected": true            }        ]    }}
+{
+    "response": {
+        "babysitters": [
+            {
+                "id": "3532",
+                "name": "Julia Anders",
+                "imageUrl": " http://img-2013.s3.amazonaws.com/1325619434small.jpg",
+                "rating": 1,
+                "price": 7.9,
+                "currency": "EUR",
+                "initiallySelected": true
+            } ,
+            {
+                "id": "1522",
+                "name": "Sandra Weichert",
+                "imageUrl": " http://img-2013.s3.amazonaws.com/1336640425small.jpg",
+                "rating": 0.8,
+                "price": 8.49,
+                "currency": "EUR",
+                "initiallySelected": true
+            } ,
+            {
+                "id": "132",
+                "name": "Debora Zet",
+                "imageUrl": " http://img-2013.s3.amazonaws.com/1325619434small.jpg",
+                "rating": 0.2,
+                "price": 7.99,
+                "currency": "EUR",
+                "initiallySelected": false
+            } ,
+            {
+                "id": "12232",
+                "name": "Hannah Unterholz",
+                "imageUrl": "http://img-2013.s3.amazonaws.com/1336640425small.jpg",
+                "rating": 0.5,
+                "price": 10,
+                "currency": "EUR",
+                "initiallySelected": false
+            }
+        ]
+    }
+}
