@@ -4,7 +4,7 @@
             {
                 "id": "3532",
                 "name": "Julia Anders",
-                "imageUrl": " http://img-2013.s3.amazonaws.com/1325619434small.jpg",
+                "imageUrl": "http://img-2013.s3.amazonaws.com/1325619434small.jpg",
                 "rating": 1,
                 "price": 7.9,
                 "currency": "EUR",
@@ -13,7 +13,7 @@
             {
                 "id": "1522",
                 "name": "Sandra Weichert",
-                "imageUrl": " http://img-2013.s3.amazonaws.com/1336640425small.jpg",
+                "imageUrl": "http://img-2013.s3.amazonaws.com/1336640425small.jpg",
                 "rating": 0.8,
                 "price": 8.49,
                 "currency": "EUR",
@@ -22,7 +22,7 @@
             {
                 "id": "132",
                 "name": "Debora Zet",
-                "imageUrl": " http://img-2013.s3.amazonaws.com/1325619434small.jpg",
+                "imageUrl": "http://img-2013.s3.amazonaws.com/1325619434small.jpg",
                 "rating": 0.2,
                 "price": 7.99,
                 "currency": "EUR",
