@@ -1,1 +1,10 @@
-{    "response": {          "user": {              "id": "1242",            "name": "My Full Name",            "imageUrl": "http://images.kinderfee.de/9sJnx.jpg"          },          "formattedLocation": "Heisenberg Straße 14, 66692 Berlin"    }}
+{
+    "response": {
+          "user": {
+              "id": "1242",
+            "name": "My Full Name",
+            "imageUrl": "http://images.kinderfee.de/9sJnx.jpg",
+            "formattedLocation": "Heisenberg Straße 14, 66692 Berlin"
+          }
+    }
+}
